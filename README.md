@@ -5,7 +5,7 @@
 - Data Science Minor (_in progress_)
 
 ## Projects
-Soccer Career Performance:
+Soccer Career Performance (CS-215 Final Project):
 - Scrape FotMob website (or download if available) for data on a player's career (tbd)
 - Clean the data, make sure I am able to get the data specific to my project
 
